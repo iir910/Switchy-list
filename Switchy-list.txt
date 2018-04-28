@@ -1,0 +1,88 @@
+;谷歌 
+HostRegex: .*google.* 
+;*.googlevideo.com
+;*.google-analytics.com
+*.youtu.be
+*.youtube.com
+*.ggpht.com
+*.blogspot.com
+*.blogger.com
+*.ytimg.com
+*.gstatic.com
+*.goo.gl
+*.chromium.org
+*.chrome.com
+
+;一级域名
+HostRegex: .*jp$
+HostRegex: .*tw$
+HostRegex: .*hk$
+HostRegex: .*us$
+HostRegex: .*co$
+
+;
+*.duckduckgo.com
+duckduckgo.com
+
+;ACG
+
+*.pixiv.net
+*.pximg.net
+*.konachan.com
+*.sankakucomplex.com
+*.yande.re
+gelbooru.com
+*.cartomad.com
+*.cartoonmad.com
+*.kisskiss.tv
+;*.iqdb.org
+*.saucenao.com
+*.gentai.org
+*.imgur.com
+;*.tineye.com
+*.e-hentai.org
+;*.exhentai.org
+*.ehgt.org
+UrlRegex: ^.*((-jpg.*\.jpg)|(-bmp.*\.bmp)|(-gif.*\.gif)|(-png.*\.png)).*
+
+
+
+;sns 社交网站
+
+*.twitter.com
+*.twimg.com
+*.tumblr.com
+t.umblr.com
+*.facebook.com
+*.facebook.net
+*.fsdn.com 
+*.fbcdn.net
+*.eyny.com
+*.pinimg.com
+
+
+*.sourceforge.net
+
+;
+*.wikipedia.org
+
+
+；news
+*.dwnews.com
+*.dwnews.net
+
+*.fc2.com
+*.s3.amazonaws.com
+*.cdninstagram.com
+
+
+*.dropbox.com
+*.yahoo.com
+
+;game
+*.nexusmods.com
+*.steamcommunity.com
+
+*.cloudfront.net
+
+*.github.io
