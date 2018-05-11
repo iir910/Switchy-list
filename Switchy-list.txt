@@ -12,6 +12,7 @@ HostRegex: .*google.*
 *.goo.gl
 *.chromium.org
 *.chrome.com
+*.andriod.com
 
 ;一级域名
 HostRegex: .*jp$
@@ -25,7 +26,6 @@ HostRegex: .*co$
 duckduckgo.com
 
 ;ACG
-
 *.pixiv.net
 *.pximg.net
 *.konachan.com
