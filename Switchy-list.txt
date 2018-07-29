@@ -1,7 +1,10 @@
 ;谷歌 
+
 HostRegex: .*google.* 
-;*.googlevideo.com
-;*.google-analytics.com
+*.googlevideo.com
+*.google-analytics.com
+*.google.co.jp
+*.google.com.hk
 *.youtu.be
 *.youtube.com
 *.ggpht.com
@@ -12,7 +15,7 @@ HostRegex: .*google.*
 *.goo.gl
 *.chromium.org
 *.chrome.com
-*.andriod.com
+*.android.com
 
 ;一级域名
 HostRegex: .*jp$
@@ -20,58 +23,95 @@ HostRegex: .*tw$
 HostRegex: .*hk$
 HostRegex: .*us$
 HostRegex: .*co$
+HostRegex: .*me$
 
-;
+;p
 *.duckduckgo.com
 duckduckgo.com
+;
+*.bing.net
+*.bing.com
 
+
+
+;
 ;ACG
+
+;图站
 *.pixiv.net
 *.pximg.net
 *.konachan.com
 *.sankakucomplex.com
 *.yande.re
-gelbooru.com
+*.gelbooru.com
 *.cartomad.com
 *.cartoonmad.com
 *.kisskiss.tv
 ;*.iqdb.org
 *.saucenao.com
 *.gentai.org
+
 *.imgur.com
 ;*.tineye.com
+
+;ecchi
+*.rdtcdn.com
+*.youporn.com
+*.redtube.com
+*.rncdn3.com
+;*.llnwd.net
+*.nyaa.si
+*.rncdn3.com
+*.eyny.com
+*.s-cute.com
+*.wnacg.org
+;E绅士
 *.e-hentai.org
-;*.exhentai.org
+*.exhentai.org
 *.ehgt.org
 UrlRegex: ^.*((-jpg.*\.jpg)|(-bmp.*\.bmp)|(-gif.*\.gif)|(-png.*\.png)).*
-
+*.ehwiki.org
 
 
 ;sns 社交网站
-
+*.ptt.cc
 *.twitter.com
 *.twimg.com
 *.tumblr.com
 t.umblr.com
+
 *.facebook.com
 *.facebook.net
 *.fsdn.com 
 *.fbcdn.net
 *.eyny.com
 *.pinimg.com
+*.phncdn.com
+*.pornhub.com
+*.appspot.com
+*.ypncdn.com
+*.ero-video.net
+*.xvideos-cdn.com
+
+
+
 
 
 *.sourceforge.net
+*.dl.sourceforge.net
+
 
 ;
+zh.wikipedia.org
 *.wikipedia.org
 
 
 ；news
 *.dwnews.com
 *.dwnews.net
-
+*.nytimes.com
 *.fc2.com
+
 *.s3.amazonaws.com
 *.cdninstagram.com
 
@@ -81,7 +121,14 @@ t.umblr.com
 
 ;game
 *.nexusmods.com
+*.loverslab.com
 *.steamcommunity.com
+*.steampowered.com
+*.steamstatic.com
+
+
+
+
 
 *.cloudfront.net
 
